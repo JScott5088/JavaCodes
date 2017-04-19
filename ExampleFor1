@@ -1,0 +1,13 @@
+package day1.examples;
+
+public class ExampleFor {
+
+	public static void main(String[] args) {
+		// i++ i = i + 1
+		// TODO Auto-generated method stub
+for(int i = 10; i > 0; i--){
+	System.out.println("i = " + i);
+}
+	}
+
+}
